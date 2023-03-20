@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Algorithm Practice - String Interlacer/1.0.0": {
+        "runtime": {
+          "Algorithm Practice - String Interlacer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algorithm Practice - String Interlacer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
